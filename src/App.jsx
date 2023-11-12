@@ -5,7 +5,7 @@ import Home from"./pages/Home";
 // import UserDetail from "./pages/UserDetail";
 // import NotFound from "./pages/NotFound";
 // import HeaderSearchCar from "./components/Header-Search-Car";
-import SearchCar from "./pages/SearchCar";
+import SearchCar from "./pages/CarSearch";
 
 const App =() =>{
   return (
